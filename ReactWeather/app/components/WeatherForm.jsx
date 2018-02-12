@@ -6,8 +6,6 @@ var WeatherForm = React.createClass({
 			<div>
 				<form>
 					<input type="text" />
-					This is the form
-					<br />
 					<button>Get Weather</button>
 				</form>
 			</div>

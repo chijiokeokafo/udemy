@@ -13917,8 +13917,6 @@ var WeatherForm = React.createClass({
 				"form",
 				null,
 				React.createElement("input", { type: "text" }),
-				"This is the form",
-				React.createElement("br", null),
 				React.createElement(
 					"button",
 					null,
@@ -25290,7 +25288,7 @@ var WeatherMessage = React.createClass({
 			'div',
 			null,
 			React.createElement(
-				'h1',
+				'h4',
 				null,
 				'It\'s -1000 in Toronto right now'
 			)

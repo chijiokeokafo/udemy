@@ -4,7 +4,7 @@ var WeatherMessage = React.createClass({
 	render: function () {
 		return (
 			<div>
-				<h1>It's -1000 in Toronto right now</h1>
+				<h4>It's -1000 in Toronto right now</h4>
 			</div>
 		)
 	}
