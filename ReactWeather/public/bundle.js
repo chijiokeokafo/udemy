@@ -14278,7 +14278,7 @@ var Nav = React.createClass({
 	render: function render() {
 		return React.createElement(
 			'div',
-			null,
+			{ className: 'nav-component' },
 			React.createElement(
 				'h2',
 				null,
